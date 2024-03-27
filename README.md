@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **rupesh32003@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mediboyina-rupesh-kumar-yadav-8b7a14205/overlay/1709371037999/single-media-viewer?type=DOCUMENT&profileId=ACoAADRMOQsB2ATIQukvnSVXbJY4YIYabL44ZYo&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bb4g3X5W2SpG8tUlc20KeKw%3D%3D](Resume)
+- 📄 Know about my experiences [Resume]([Resume](https://www.linkedin.com/in/mediboyina-rupesh-kumar-yadav-8b7a14205/overlay/1709371037999/single-media-viewer?type=DOCUMENT&profileId=ACoAADRMOQsB2ATIQukvnSVXbJY4YIYabL44ZYo&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bb4g3X5W2SpG8tUlc20KeKw%3D%3D))
 
 - ⚡ Fun fact **I like debates**
 
