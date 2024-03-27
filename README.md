@@ -60,6 +60,15 @@
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
 </p>
 
+### GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rupesh4604&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rupesh4604&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
 
 <!--
 **Rupesh4604/Rupesh4604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
