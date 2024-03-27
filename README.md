@@ -17,9 +17,11 @@
 
 - 📫 How to reach me **rupesh32003@gmail.com**
 
-- 📄 Know about my experiences [Resume]([Resume](https://www.linkedin.com/in/mediboyina-rupesh-kumar-yadav-8b7a14205/overlay/1709371037999/single-media-viewer?type=DOCUMENT&profileId=ACoAADRMOQsB2ATIQukvnSVXbJY4YIYabL44ZYo&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bb4g3X5W2SpG8tUlc20KeKw%3D%3D))
-
 - ⚡ Fun fact **I like debates**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,6 +31,7 @@
 <a href="https://instagram.com/rupesh32003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rupesh32003" height="30" width="40" /></a>
 <a href="https://medium.com/@rupesh32003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rupesh32003" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rupesh32003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rupesh32003" height="30" width="40" /></a>
+<a href="/https://rss.app/feeds/1kadilfuwjkecqyw.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://rss.app/feeds/1kadilfuwjkecqyw.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
