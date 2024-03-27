@@ -78,13 +78,9 @@
 
 ### GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rupesh4604&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupesh4604&show_icons=true&locale=en&layout=compact" alt="rupesh4604" /></p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rupesh4604&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rupesh4604&show_icons=true&locale=en" alt="rupesh4604" /></p>
 
 <!--
 **Rupesh4604/Rupesh4604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
