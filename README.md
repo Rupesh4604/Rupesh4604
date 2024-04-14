@@ -25,9 +25,9 @@
   <a href="https://www.leetcode.com/rupesh32003" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 </p>
 
-### Blogs & Articles
+<!-- ### Blogs & Articles
 
-- [Medium](https://medium.com/@rupesh32003)
+- [Medium](https://medium.com/@rupesh32003) -->
 
 ### Programming Languages:
 <p align="left">
