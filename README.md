@@ -27,7 +27,7 @@
 
 <!-- ### Blogs & Articles
 
-- [Medium](https://medium.com/@rupesh32003) -->
+- [Medium](https://medium.com/@rupesh32003)
 
 ### Programming Languages:
 <p align="left">
@@ -63,6 +63,8 @@
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/> </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/> </a>
 </p>
+
+-->
 
 
 ### GitHub Stats
