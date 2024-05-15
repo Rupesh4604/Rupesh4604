@@ -12,7 +12,7 @@
 - 👯 Open to collaborate on **Computer Vision projects**
 - 💬 Ask me about **Deep Learning, Computer Vision**
 - 📫 Reach me at **rupesh32003@gmail.com**
-- <!--  -⚡ Fun fact: **I enjoy debates!** -->
+<!--  -⚡ Fun fact: **I enjoy debates!** -->
 
 ### Connect with Me
 
