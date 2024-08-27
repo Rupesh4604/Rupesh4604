@@ -7,10 +7,10 @@
 
 ### About Me
 <!-- Text -->
-- 🔭 Currently working on **Hyperspectral Imagery**
-- 🌱 Learning **Transformers for Vision Applications & AWS**
+- 🔭 Currently working on **Hyperspectral Imagery, Geoinformatics & Image Peocessing(Satellite Image Processing)**
+- 🌱 Learning **Transformers for Vision Applications**
 - 👯 Open to collaborate on **Computer Vision projects**
-- 💬 Ask me about **Deep Learning, Computer Vision**
+- 💬 Ask me about **Deep Learning, Machine Learning, Computer Vision**
 - 📫 Reach me at **rupesh32003@gmail.com**
 <!--  -⚡ Fun fact: **I enjoy debates!** -->
 
