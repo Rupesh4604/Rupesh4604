@@ -5,8 +5,13 @@
   <img src="https://komarev.com/ghpvc/?username=rupesh4604&label=Profile%20views&color=0e75b6&style=flat" alt="rupesh4604" /> 
 </p>
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Rupesh4604&label=Profile%20Views&color=0&icon=2&pretty=true" />
+</a>
+
 ### About Me
 <!-- Text -->
+I am an enthusiastic individual with a keen interest in research in the domains Deep Learning & Computer Vision. I am currently pursuing MTech in Geoinformantics and Natural Resource Engineering at IIT Bombay with an anticipation of graduation year of 2026, and I'm a have a B.Tech degree in Computer Science and Engineering from NIT Andhra Pradesh, with insights in ML, Deep Learning, AI, Web Development and SDE. I have recently interned at Center for Artificial Intelligence and Robotics(CAIR), DRDO.
 - 🔭 Currently working on **Hyperspectral Imagery, Geoinformatics & Image Peocessing(Satellite Image Processing)**
 - 🌱 Learning **Transformers for Vision Applications**
 - 👯 Open to collaborate on **Computer Vision projects**
