@@ -21,10 +21,14 @@ I am an enthusiastic individual with a keen interest in research in the domains 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,java,anaconda,latex,react,pytorch,sklearn,tensorflow,linux,ubuntu,html,css,javascript&theme=light&perline=5" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,java,anaconda,react,pytorch,sklearn,tensorflow,linux,ubuntu,html,css,javascript,docker,flask,mongodb,postgres,mysql,npm,opencv&theme=light&perline=7" />
   </a>
 </p>
 
+<!-- gcp,kubernetes,figma,flutter -->
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rupesh4604&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🌐 Socials:
 
