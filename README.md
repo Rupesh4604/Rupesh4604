@@ -10,7 +10,7 @@
 I am an enthusiastic individual with a keen interest in research in the domains Deep Learning & Computer Vision. I am currently pursuing MTech in Geoinformantics and Natural Resource Engineering at IIT Bombay with an anticipation of graduation year of 2026, and I'm a have a B.Tech degree in Computer Science and Engineering from NIT Andhra Pradesh, with insights in ML, Deep Learning, AI, Web Development and SDE. I have interned at Center for Artificial Intelligence and Robotics(CAIR), DRDO (2023).
 - 🔭 Currently working on **Small Vision Language Models, Quantum Deep Learning for Vision, & Satellite Image Processing**
 - 🌱 Learning **Quantum Neural networks, Transformers for Vision Applications**
-- 👯 Open to collaborate on **Computer Vision projects**
+- 👯 Open to collaborate on **LLMs & Computer Vision projects**
 - 💬 Ask me about **Deep Learning, Machine Learning, Computer Vision**
 - 📫 Reach me at **rupesh32003@gmail.com**
 
