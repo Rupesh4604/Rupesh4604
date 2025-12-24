@@ -21,7 +21,7 @@ I am an enthusiastic individual with a keen interest in research in the domains 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,java,anaconda,react,pytorch,sklearn,tensorflow,linux,ubuntu,html,css,javascript,docker,flask,mongodb,postgres,mysql,npm,opencv&theme=light&perline=7" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,java,anaconda,react,pytorch,sklearn,tensorflow,linux,ubuntu,html,css,javascript,docker,flask,mongodb,postgres,mysql,npm,opencv,figma,ai,fastapi,firebase,kubernetes,gcp&theme=light&perline=7" />
   </a>
 </p>
 
