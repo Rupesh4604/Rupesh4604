@@ -14,8 +14,10 @@ I am an enthusiastic individual with a keen interest in research in the domains 
 - 💬 Ask me about **Deep Learning, Machine Learning, Computer Vision**
 - 📫 Reach me at **rupesh32003@gmail.com**
 
-![Rupesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rupesh4604&show_icons=true&theme=radical)
-
+<!--
+![Rupesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rupesh4604&show_icons=true&theme=radical) 
+![](https://streak-stats.demolab.com?user=Rupesh4604&theme=default&hide_border=true)
+-->
 
 ## 👨‍💻 Tech Skills:
 
@@ -27,8 +29,11 @@ I am an enthusiastic individual with a keen interest in research in the domains 
 
 <!-- gcp,kubernetes,figma,flutter -->
 
+<!--
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rupesh4604&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=rupesh4604&theme=matrix&no-frame=false&no-bg=false&margin-w=4) 
+-->
+
 
 ## 🌐 Socials:
 
