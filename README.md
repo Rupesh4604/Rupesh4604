@@ -28,28 +28,26 @@ I am an enthusiastic individual with a keen interest in research in the domains 
 </p>
 
 <!-- gcp,kubernetes,figma,flutter -->
+## 📊 GitHub Stats:
 
-<!--
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rupesh4604&theme=matrix&no-frame=false&no-bg=false&margin-w=4) 
--->
-
-
-## 🌐 Socials:
-
-<p align="left">
-  <a href="https://linkedin.com/in/mediboyina rupesh kumar yadav" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/22183581" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
-  <a href="https://kaggle.com/rupesh kumar yadav" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
-  <a href="https://instagram.com/rupesh32003" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://medium.com/@rupesh32003" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/rupesh32003" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rupesh4604&show_icons=true&locale=en" alt="rupesh4604" />
 </p>
 
-<!-- ## 📊 GitHub Stats:
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rupesh4604&theme=matrix&no-frame=false&no-bg=false&margin-w=4) 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rupesh4604&show_icons=true&locale=en" alt="rupesh4604" /></p> -->
+## 🌐 Socials:
+<table>
+  <tr>
+    <td><a href="https://linkedin.com/in/mediboyina-rupesh-kumar-yadav"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a></td>
+    <td><a href="https://stackoverflow.com/users/22183581"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a></td>
+    <td><a href="https://kaggle.com/rupeshkumaryadav"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a></td>
+    <td><a href="https://instagram.com/rupesh32003"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a></td>
+    <td><a href="https://medium.com/@rupesh32003"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a></td>
+    <td><a href="https://www.leetcode.com/rupesh32003"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a></td>
+  </tr>
+</table>
 
 ## Blogs & Newsletter:
 
