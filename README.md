@@ -54,7 +54,10 @@ I am an enthusiastic individual with a keen interest in research in the domains 
 - **AI/ML at Scale:** Stay updated with the latest trends and insights on AI and Machine Learning.  
   📬 [**Subscribe on LinkedIn**](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7226976869512790016)  
 
-- **Medium Blog:** Explore in-depth articles and tutorials on AI, ML, and other tech topics.  
-  📖 [**Read on Medium**](https://medium.com/@rupesh32003)  
+- **Medium Blog:** Explore in-depth articles and tutorials on AI, ML, and other tech topics.
+  
+  📖 [**My Blog - Page**](https://rupesh4604.github.io/)
+  
+  <!--📖 [**Read on Medium**](https://medium.com/@rupesh32003)  -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=footer" width="100%">
