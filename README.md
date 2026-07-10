@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm M Rupesh Kumar Yadav</h1>
+<!-- <h1 align="center">Hi there! 👋 I'm M Rupesh Kumar Yadav</h1>
 <h3 align="center">Passionate Learner & Developer | AI, ML, Deep Learning Enthusiast</h3>
 
 <p align="left"> 
@@ -12,13 +12,14 @@ I am an enthusiastic individual with a keen interest in research in the domains 
 - 🌱 Learning **Quantum Neural networks, Transformers for Vision Applications**
 - 👯 Open to collaborate on **Multimodal LLMs, Agentic Ai, NLP, NeuralIR, Deep Learning & Computer Vision projects**
 - 💬 Ask me about **Deep Learning, Machine Learning, Computer Vision**
-- 📫 Reach me at **rupesh32003@gmail.com**
+- 📫 Reach me at **rupesh32003@gmail.com** -->
 
 <!--
 ![Rupesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rupesh4604&show_icons=true&theme=radical) 
 ![](https://streak-stats.demolab.com?user=Rupesh4604&theme=default&hide_border=true)
 -->
 
+<!--
 ## 👨‍💻 Tech Skills:
 
 <p align="center">
@@ -27,7 +28,7 @@ I am an enthusiastic individual with a keen interest in research in the domains 
   </a>
 </p>
 
-<!-- gcp,kubernetes,figma,flutter -->
+
 ## 📊 GitHub Stats:
 
 <p align="center">
@@ -58,6 +59,6 @@ I am an enthusiastic individual with a keen interest in research in the domains 
   
   📖 [**My Blog - Page**](https://rupesh4604.github.io/)
   
-  <!--📖 [**Read on Medium**](https://medium.com/@rupesh32003)  -->
+  📖 [**Read on Medium**](https://medium.com/@rupesh32003)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=footer" width="100%"> -->
