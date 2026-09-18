@@ -8,7 +8,7 @@
 
 ## About Me
 
-Data Scientist at Esri, building geospatial vision-language models, end-to-end from data pipelines through model architecture to deployed APIs. My Background spans deep learning, computer vision, and quantum-classical hybrid ML, with research training from IIT Bombay (M.Tech, Geoinformatics and Natural Resource Engineering) and NIT Andhra Pradesh (B.Tech, CSE). Prior experience at CAIR, DRDO.
+Data Scientist at Esri R&D, building geospatial vision-language models, end-to-end from data pipelines through model architecture to deployed APIs. My Background spans deep learning, computer vision, and quantum-classical hybrid ML, with research training from IIT Bombay (M.Tech, Geoinformatics and Natural Resource Engineering) and NIT Andhra Pradesh (B.Tech, CSE). Prior experience at CAIR, DRDO.
 
 - 🔭 **Building:** Geospatial vision-language models at Esri; quantum-classical hybrid architectures for vision
 - 🌱 **Studying:** Quantum neural networks, World models (VL-JEPA), Diffusion Models, agentic systems
