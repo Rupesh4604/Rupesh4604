@@ -4,17 +4,29 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=rupesh4604&label=Profile%20views&color=0e75b6&style=flat" alt="rupesh4604" /> 
 </p>
+-->
 
+## About Me
 
+Data Scientist at Esri, building geospatial vision-language models, end-to-end from data pipelines through model architecture to deployed APIs. My Background spans deep learning, computer vision, and quantum-classical hybrid ML, with research training from IIT Bombay (M.Tech, Geoinformatics and Natural Resource Engineering) and NIT Andhra Pradesh (B.Tech, CSE). Prior experience at CAIR, DRDO.
+
+- 🔭 **Building:** Geospatial vision-language models at Esri; quantum-classical hybrid architectures for vision
+- 🌱 **Studying:** Quantum neural networks, World models (VL-JEPA), Diffusion Models, agentic systems
+- 🤝 **Collaborating on:** Multimodal LLMs, agentic AI, NLP, applied CV/DL research
+- 💬 **Talk to me about:** Deep learning, ML systems, computer vision, AI architecture
+- 🌐 **Portfolio:** [rupesh-portfolio](https://rupesh-dev.vercel.app/)
+- 📫 **Contact:** rupesh32003@gmail.com
+
+<!--
 ## 💫 About Me:
 I am an enthusiastic individual with a keen interest in research in the domains Deep Learning & Computer Vision. I am currently pursuing MTech in Geoinformantics and Natural Resource Engineering at IIT Bombay with an anticipation of graduation year of 2026, and I'm a have a B.Tech degree in Computer Science and Engineering from NIT Andhra Pradesh, with insights in ML, Deep Learning, AI, Web Development and SDE. I have interned at Center for Artificial Intelligence and Robotics(CAIR), DRDO (2023).
 - 🔭 Currently working on **Small Vision Language Models, Quantum Deep Learning for Vision, & Satellite Image Processing**
 - 🌱 Learning **Quantum Neural networks, Transformers for Vision Applications**
 - 👯 Open to collaborate on **Multimodal LLMs, Agentic Ai, NLP, NeuralIR, Deep Learning & Computer Vision projects**
 - 💬 Ask me about **Deep Learning, Machine Learning, Computer Vision**
-- 📫 Reach me at **rupesh32003@gmail.com** -->
+- 📫 Reach me at **rupesh32003@gmail.com** 
 
-<!--
+
 ![Rupesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rupesh4604&show_icons=true&theme=radical) 
 ![](https://streak-stats.demolab.com?user=Rupesh4604&theme=default&hide_border=true)
 -->
