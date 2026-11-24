@@ -14,7 +14,7 @@ Data Scientist at Esri R&D, building geospatial vision-language models, end-to-e
 - 🌱 **Studying:** World models (VL-JEPA), Diffusion Models, agentic systems, quantum-classical hybrid architectures for vision
 - 🤝 **Collaborating on:** Multimodal LLMs, agentic AI, NLP, applied CV/DL research
 - 💬 **Talk to me about:** Deep learning, ML systems, computer vision, AI architecture
-- 🌐 **Portfolio:** [rupesh-portfolio](https://rupesh-dev.vercel.app/)
+- 🌐 **Portfolio:** [rupeshmediboyina.dev](https://rupeshmediboyina.dev/)  
 - 📫 **Contact:** rupesh32003@gmail.com
 
 <!--
